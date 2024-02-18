@@ -27,7 +27,19 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API",
+      "url": "api-reference"
+    },
+    {
+      "name": "Terraform",
+      "url": "api-reference"
+    },
+    {
+      "name": "CLI",
+      "url": "api-reference"
+    },
+    {
+      "name": "Integrations",
       "url": "api-reference"
     }
   ],
